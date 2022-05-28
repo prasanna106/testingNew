@@ -1,5 +1,10 @@
 package gitPack;
 
 public class GitClass {
-System.out.println("updated in gitHub");
+public static void main(String[] args) {
+	
+
+	System.out.println("updated in gitHub");
+	System.out.println("new update done in class");
+}
 }
